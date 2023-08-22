@@ -6,3 +6,7 @@ author:
 - Haneul Choi
 ---
 
+Theory of kolmogorov complexity
+Implication in ML
+
+In progress
